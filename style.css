@@ -10,7 +10,8 @@ a {
 
 .header-nav-bar {
   display: grid;
-  grid-template-columns: 50px 50px 1fr 50px 50px 50px 50px;
+  grid-template-columns: 70px 100px 1fr 65px 30px 40px 40px;
+  grid-template-rows: 50px;
   align-items: center;
 }
 
