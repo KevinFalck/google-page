@@ -5,10 +5,28 @@ a {
 
 .header-nav-bar-left {
   display: flex;
-  gap: 5px;
+  gap: 10px;
+  align-items: center;
 }
 
 .header-nav-bar-right {
   display: flex;
   justify-content: space-evenly;
+  gap: 10px;
+  align-items: center;
+}
+
+.header-nav-bar-button {
+  background-color: #f2f2f2;
+  border: none;
+  padding: 10px;
+  border-radius: 5px;
+  color: white;
+  background-color: #1c57d6;
+  border-radius: 20px;
+}
+
+.google-logo {
+  width: 30vh;
+  height: 30vh;
 }
