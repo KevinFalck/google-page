@@ -23,6 +23,7 @@ a {
   color: white;
   background-color: #1c57d6;
   border-radius: 20px;
+  cursor: pointer;
 }
 
 .google-logo {
