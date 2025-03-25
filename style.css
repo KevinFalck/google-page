@@ -46,6 +46,9 @@ a {
   justify-content: center;
 }
 
+input {
+  outline: none;
+}
 .search-container-buttons {
   padding: 30px;
   margin-right: 10px;
