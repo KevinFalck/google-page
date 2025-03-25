@@ -1,0 +1,14 @@
+a {
+  text-decoration: none;
+  color: black;
+}
+
+.header-nav-bar-left {
+  display: flex;
+  gap: 5px;
+}
+
+.header-nav-bar-right {
+  display: flex;
+  justify-content: space-evenly;
+}
